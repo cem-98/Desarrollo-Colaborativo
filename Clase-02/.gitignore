@@ -1,0 +1,4 @@
+.env
+tmp/
+
+# Se agregan los archivos al .gitignore y así ya no aparecen a la hora de hacer git status
